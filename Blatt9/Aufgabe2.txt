@@ -1,0 +1,2 @@
+Wahrscheinlichkeit, dass beliebige k aus n Schluessel auf ein vorher
+ausgewaehltes Feld plaziert werden sollen.
